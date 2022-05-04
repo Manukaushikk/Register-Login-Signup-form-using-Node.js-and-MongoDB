@@ -26,4 +26,3 @@ Code is Running on
 
 ### Do not forget to leave a star! :hugs:
 
-:heart_eyes
